@@ -1,5 +1,3 @@
-Here's your GitHub profile README adapted to the provided markdown template:
-
 [![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/jatinpant07)
 
 <h1 align="center">Hi <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55">, I'm Jatin Pant</h1>
